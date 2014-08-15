@@ -20,3 +20,21 @@ session.add(value=string_variable, key="string")
 session.add(value=dict_variable, key="dict")
 session.show_added()
 
+# <codecell>
+
+session.commit("Our first commit!")
+
+# <codecell>
+
+session.show_added()
+
+# <codecell>
+
+variable = 160
+string_variable = "bar foo"
+
+# <codecell>
+
+session.add(value=variable, key="variable")
+session.add(value=string_variable, key="string")
+
