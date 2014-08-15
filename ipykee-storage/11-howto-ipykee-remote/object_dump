@@ -1,0 +1,18 @@
+(dp0
+S'variable'
+p1
+I136123
+sS'dict'
+p2
+(dp3
+S'foo'
+p4
+I123
+sS'bar'
+p5
+I146
+ssS'string'
+p6
+S'foo bar'
+p7
+s.
